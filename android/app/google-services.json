@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "62681712700",
+    "project_id": "ticket-bioskop-52911",
+    "storage_bucket": "ticket-bioskop-52911.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:62681712700:android:74c72df33cce8845d85b39",
+        "android_client_info": {
+          "package_name": "com.ifanbf.tiketbioskop"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "62681712700-s1inv4tu6ovkuc8he1leq949d8oadobo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBbXcj6WAXy0EYMyiYWAI8JeoJCEbInHhk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "62681712700-s1inv4tu6ovkuc8he1leq949d8oadobo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
